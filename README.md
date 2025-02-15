@@ -91,4 +91,4 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы.
 
-### [РЕШЕНИЕ](https://docs.google.com/spreadsheets/d/1t_wqHS5Y1OyeLitVb5yP_-Tj-HZt3aHr/edit?gid=1090683030#gid=1090683030).
+### [РЕШЕНИЕ](https://docs.google.com/spreadsheets/d/17TI0nKnCacxQ8k9KQrTnPJM2kBpvAIas/edit?usp=sharing&ouid=116206441387549703294&rtpof=true&sd=true).
